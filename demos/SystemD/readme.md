@@ -1,9 +1,9 @@
 ## SystemD: journalctl demo
 
-This demo shows use of a PowerShell script module to wrap a native tool (journalctl) so that the output is structured for filtering and presentation control. `journalctl` is expressed as a cmdlet: Get-SystemDJournal, and the JSON output of journalctl is converted to a PowerShell object. 
+This demo shows use of a engine script module to wrap a native tool (journalctl) so that the output is structured for filtering and presentation control. `journalctl` is expressed as a cmdlet: Get-SystemDJournal, and the JSON output of journalctl is converted to the object. 
 
 ## Prerequisites ##
-- Requires a SystemD-based operating system (Red Hat or CentOS 7, Ubuntu 16.04)
+- Requires a Windows 10/11
 - Install PowerShell
 
 
