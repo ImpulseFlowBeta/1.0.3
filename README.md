@@ -19,11 +19,14 @@ Impulse Flow is a free P2E online game based on blockchain technology. Everyone 
 For announcements about new releases, follow the
 [official Twitter](https://twitter.com/lmpulse_Flow)
 
-№№ Releases
->>> [v1.0.3](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
->>> [v1.0.2](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
->>> [v1.0.1](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
->>> [v1.0](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
+### Releases
+> [v1.0.3](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
+
+> [v1.0.2](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
+
+> [v1.0.1](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
+
+> [v1.0](https://github.com/ImpulseFlowBeta/1.0.3/releases/)
 
 ## Terms of service
 
