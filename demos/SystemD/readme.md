@@ -4,7 +4,8 @@ This demo shows use of a engine script module to wrap a native tool (journalctl)
 
 ## Prerequisites ##
 - Requires a Windows 10/11
-- Install PowerShell
+- Install the game
+- Run launcher
 
 
 Note: Accessing the SystemD journal requires privileges. The user must have authorization to elevate with sudo. You will be prompted for a sudo password when running the demo.
