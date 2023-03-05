@@ -3,7 +3,7 @@
 
 #
 # Wrap Python script in such a way to make it easy to
-# consume from PowerShell
+# consume from Unity
 #
 # The variable $PSScriptRoot points to the directory
 # from which the script was executed. This allows
