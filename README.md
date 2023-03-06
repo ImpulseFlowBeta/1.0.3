@@ -1,6 +1,5 @@
 ![Image alt](https://github.com/ImpulseFlowBeta/1.0.3/blob/main/docs/building/impulse222.png)
 
-[![Build Status - Cirrus][]][Build status]
 [![Twitter handle][]][Twitter badge]
 [![Official community handle][]][Official community badge]
 ![Security headers handle]
