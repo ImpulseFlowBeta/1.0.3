@@ -84,7 +84,7 @@ Information on how to get started can be found in our
 [widget catalog]: https://flutter.dev/widgets/
 [Cupertino]: https://docs.flutter.dev/development/ui/widgets/cupertino
 [Material]: https://docs.flutter.dev/development/ui/widgets/material
-[Skia]: https://skia.org/
+[Skia]: https://skia.org
 [Dart platform]: https://dart.dev/
 [Hot reload animation]: https://github.com/flutter/website/blob/main/src/assets/images/docs/tools/android-studio/hot-reload.gif?raw=true
 [Hot reload]: https://docs.flutter.dev/development/tools/hot-reload
