@@ -4,7 +4,7 @@
 [![Official community handle][]][Official community badge]
 ![Security headers handle]
 [![downloads handle][]][downloads badge]
-
+ 
 
 Impulse Flow is a free P2E online game based on blockchain technology. Everyone can find something to do. You can put together a team and participate in online battles and improve your character's skills in order to earn higher levels of skill and passive income.
 
